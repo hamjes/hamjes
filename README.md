@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jhamalainen0
+- 🌱 I’m currently learning chrome extensions
+- 📫 How to reach me vistrac.info@gmail.com
