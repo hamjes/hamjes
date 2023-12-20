@@ -1,4 +1,5 @@
-![Logo (1)](https://github.com/jhamalainen0/jhamalainen0/assets/153898686/3a92c119-f36b-41c3-a6a9-32de1b929e1f)
+
+![Logo (2)](https://github.com/jhamalainen0/jhamalainen0/assets/153898686/a1427485-e6e2-4767-944a-ffdf7cf21c3e)
 
 
 - 👋 Hi, I’m @jhamalainen0
