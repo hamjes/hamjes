@@ -3,5 +3,5 @@
 
 
 - 👋 Hi, I’m Jesper
-- 🌱 I’m currently learning chrome extensions
+- 🌱 I’m currently learning more web dev
 - 📫 How to reach me vistrac.info@gmail.com
